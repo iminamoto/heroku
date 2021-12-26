@@ -17,9 +17,9 @@
     "gindex",
     "libdrive"
   ],
-  "website": "https://github.com/libDrive/libDrive",
-  "repository": "https://github.com/libDrive/libDrive",
-  "logo": "https://avatars2.githubusercontent.com/u/75073550?v=4",
+  "website": "https://github.com/iminamoto/libDrive",
+  "repository": "https://github.com/iminamoto/libDrive",
+  "logo": "https://user-images.githubusercontent.com/85867378/147404164-4acdcb4d-9067-47b3-9fe0-b153ba7fe565.png",
   "success_url": "/",
   "env": {
     "LIBDRIVE_CLOUD": {
